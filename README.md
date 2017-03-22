@@ -6,8 +6,7 @@ This project provides a starter kit for Python projects hosted on Platform.sh. I
 
 Individual examples can be found on specific branches:
 
-* bare-uwsgi
-* uwsgi
+* uWSGI on a unix socket: uwsgi
 * gunicorn
 
 ## Starting a new project
