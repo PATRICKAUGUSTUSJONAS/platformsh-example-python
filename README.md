@@ -1,13 +1,21 @@
 # Python template for Platform.sh
 
-This project provides a starter kit for Python projects hosted on Platform.sh using uwsgi. It is primarily an example, although could be used as the starting point for a real project.
+This project provides a starter kit for Python projects hosted on Platform.sh. It is primarily an example, although could be used as the starting point for a real project.
+
+## Included examples
+
+Individual examples can be found on specific branches:
+
+* bare-uwsgi
+* uwsgi
+* gunicorn
 
 ## Starting a new project
 
 To start a new project based on this template, follow these 3 simple steps:
 
 1. Clone this repository locally.  You may optionally remove the `origin` remote or remove the `.git` directory and re-init the project if you want a clean history.
- 
+
 2. Create a new project through the Platform.sh user interface and select "Import an existing project" when prompted.
 
 3. Run the provided Git commands to add a Platform.sh remote and push the code to the Platform.sh repository.
